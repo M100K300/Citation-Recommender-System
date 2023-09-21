@@ -1,7 +1,4 @@
-# FYP Citations Recommender System
-
-Name: <><><><><><>
-Student number: <><><><><>
+# Citations Recommender System
 
 The project consists of 2 parts. CLI version and the UI. Each build instruction is outlined in the corresponding sections below.
 
